@@ -22,14 +22,14 @@
         "template.json"
     ],
     "engines": {
-        "node": ">=16.14.2",
-        "npm": ">=8.5.0"
+        "node": ">=16.15.1",
+        "npm": ">=8.11.0"
     },
     "scripts": {
         "format": "prettier --write ."
     },
     "devDependencies": {
-        "prettier": "^2.6.0"
+        "prettier": "^2.7.1"
     },
     "prettier": {
         "singleQuote": true,
